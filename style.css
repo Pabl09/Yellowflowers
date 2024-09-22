@@ -2320,15 +2320,3 @@ body {
   }
 }
 
-/* Estilos optimizados para pantallas móviles */
-@media (max-width: 768px) {
-  .karaoke {
-    font-size: 4vmin; /* Reduce el tamaño de la fuente en móviles */
-    padding: 1vmin 1.5vmin; /* Ajusta el padding en móviles */
-  }
-
-  .karaoke span {
-    animation-duration: 0.3s; /* Acelera las animaciones para dispositivos móviles */
-    animation-delay: 0s; /* Elimina los retrasos para mejorar el rendimiento en móviles */
-  }
-}
